@@ -12,7 +12,7 @@
 
 ## 🧰 Tools I Use
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,androidstudio,blender,unreal,aws&perline=8)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,blender,unreal,aws&perline=8)](https://skillicons.dev)
 
 <br>
 
