@@ -4,15 +4,31 @@
 
 <br>
 
-## 🛠 Tech Stack
+#
+## 💻 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,py,react,nextjs,nodejs,mysql,sqlite&perline=8)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,py&perline=8)](https://skillicons.dev)
 
-<br>
+## ⚛️ Frameworks & Runtime
 
-## 🧰 Tools I Use
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs&perline=8)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,figma,blender,unreal,aws&perline=8)](https://skillicons.dev)
+## 🗄️ Databases
+
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite&perline=8)](https://skillicons.dev)
+
+## 🛠️ Development Tools
+
+[![Development Tools](https://skillicons.dev/icons?i=git,github,docker,vscode&perline=8)](https://skillicons.dev)
+
+## 🎨 Design & 3D Tools
+
+[![Design Tools](https://skillicons.dev/icons?i=figma,blender,unreal&perline=8)](https://skillicons.dev)
+
+## ☁️ Cloud
+
+[![Cloud](https://skillicons.dev/icons?i=aws&perline=8)](https://skillicons.dev)
+
 
 <br>
 
